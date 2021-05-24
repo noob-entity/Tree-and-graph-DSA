@@ -20,3 +20,5 @@
     }
  
   }
+// other method using 2 quque
+//adding choice element
