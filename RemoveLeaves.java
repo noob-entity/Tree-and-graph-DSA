@@ -11,3 +11,4 @@
       
       
   }
+//post order will remove all nodes
