@@ -27,7 +27,7 @@
 
   public static int height(Node node) {
     if(node==null)
-    return 0;
+    return -1;
     int lmax=height(node.left);
     int rmax=height(node.right);
     return Math.max(lmax,rmax)+1;
